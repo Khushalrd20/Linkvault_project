@@ -44,7 +44,7 @@ To Run Backend
 
 ### 1. Clone Repository
 
-git clone `<your-repo-link>`{=html} cd LinkVault
+git clone `https://github.com/Khushalrd20/Linkvault_project.git`{=html} cd LinkVault
 
 ------------------------------------------------------------------------
 
